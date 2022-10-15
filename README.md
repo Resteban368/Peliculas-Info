@@ -1,16 +1,45 @@
-# peliculas
+## Flutter Movies Info
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Development Setup
+Clone the repository and run the following commands:
+```
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Inicio App
+[![2022-10-15-10h53-20.png](https://i.postimg.cc/76tknbmq/2022-10-15-10h53-20.png)](https://postimg.cc/vgnkQYJK)
+[![2022-10-15-11h24-03.png](https://i.postimg.cc/D05BXbgc/2022-10-15-11h24-03.png)](https://postimg.cc/ZvB8knX9)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Info Pelicula
+[![2022-10-15-11h23-55.png](https://i.postimg.cc/xC1xLTN4/2022-10-15-11h23-55.png)](https://postimg.cc/JyS5L8qN)
+
+### Busqueda pelicula
+[![2022-10-15-11h24-15.png](https://i.postimg.cc/9MDkvQXq/2022-10-15-11h24-15.png)](https://postimg.cc/BLGNFsKq)
+[![2022-10-15-11h24-20.png](https://i.postimg.cc/RFtR76VG/2022-10-15-11h24-20.png)](https://postimg.cc/sQV7y2WZ)
+
+
+## License
+[Apache License](LICENSE)
+
+## Info Proyecto
+
+<p>
+Estos son algunos de los temas principales de que se desarrollaron en la aplicacion:
+1.Consumo de servicios REST
+2.Conversión de JSON --> Maps --> Modelos
+3.PageViews
+4.ApiKeys
+5.Providers
+6.Streams
+7.Infinite Horizontal Scroll
+8.SearchDelegate
+</p>
+
+
+
+
