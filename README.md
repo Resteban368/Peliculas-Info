@@ -28,17 +28,16 @@ flutter run
 
 ## Info Proyecto
 
-<p>
-Estos son algunos de los temas principales de que se desarrollaron en la aplicacion:
-1.Consumo de servicios REST
-2.Conversión de JSON --> Maps --> Modelos
-3.PageViews
-4.ApiKeys
-5.Providers
-6.Streams
-7.Infinite Horizontal Scroll
-8.SearchDelegate
-</p>
+<p>Estos son algunos de los temas principales de que se desarrollaron en la aplicacion:</p>
+<p>1.Consumo de servicios REST</p>
+<p>2.Conversión de JSON --> Maps --> Modelos</p>
+<p>3.PageViews</p>
+<p>4.ApiKeys</p>
+<p>5.Providers</p>
+<p>6.Streams</p>
+<p>7.Infinite Horizontal Scroll</p>
+<p>8.SearchDelegate</p>
+
 
 
 
